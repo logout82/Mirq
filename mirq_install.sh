@@ -123,16 +123,16 @@ listenonion=0
 masternode=1
 externalip=$NODEIP:$COIN_PORT
 masternodeprivkey=$COINKEY
-addnode 149.28.94.146
-addnode 50.2.39.204
-addnode 195.201.133.167
-addnode 138.68.254.41
-addnode 80.211.228.88
-addnode 46.101.170.210
-addnode 192.3.61.142
-addnode 80.240.29.183
-addnode 108.160.132.58
-addnode 50.3.65.109
+addnode=149.28.94.146
+addnode=50.2.39.204
+addnode=195.201.133.167
+addnode=138.68.254.41
+addnode=80.211.228.88
+addnode=46.101.170.210
+addnode=192.3.61.142
+addnode=80.240.29.183
+addnode=108.160.132.58
+addnode=50.3.65.109
 EOF
 }
 
